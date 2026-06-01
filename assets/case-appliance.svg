@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 640 360" role="img" aria-label="Home Appliances">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04070a"/><stop offset="1" stop-color="#1e2b36"/></linearGradient><radialGradient id="glow" cx="50%" cy="36%" r="52%"><stop offset="0" stop-color="#ffc400" stop-opacity=".28"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs>
+  <rect width="640" height="360" fill="url(#bg)"/><rect width="640" height="360" fill="url(#glow)"/><g transform="translate(142 55)"><rect x="0" y="0" width="350" height="250" rx="24" fill="#101010" stroke="#555" stroke-width="8"/><rect x="35" y="35" width="280" height="160" rx="12" fill="#1e2730"/><circle cx="285" cy="222" r="12" fill="#ffc400"/><rect x="45" y="218" width="145" height="10" rx="5" fill="#777" opacity=".7"/></g>
+  <rect x="28" y="26" width="138" height="30" rx="15" fill="#ffc400"/><text x="48" y="47" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="800" fill="#111">OZ MASTERBATCH</text>
+  <text x="34" y="318" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="800" fill="#fff">Home Appliances</text><text x="34" y="342" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#d8d8d8">Elegant black appearance and stability</text>
+</svg>
